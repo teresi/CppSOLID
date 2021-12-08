@@ -5,3 +5,10 @@ videos
 *.m4a
 *.tar.xz
 SOLID-C++.png
+
+# temporary files
+**.swp
+**.swo
+
+# ctags output
+tags

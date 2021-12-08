@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+
+"""
+Connect and send data for testing main/Main
+"""
+
 import json
 import os
 import socket
